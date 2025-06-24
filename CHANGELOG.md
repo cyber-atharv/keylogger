@@ -11,3 +11,6 @@ All notable changes to keylogger will be documented in this file.
 ## [0.1.2] - 2025-06-22
 - security: add clear disclaimer and educational guardrails
 
+## [0.1.3] - 2025-06-24
+- refactor: modularize OS hook handlers
+
